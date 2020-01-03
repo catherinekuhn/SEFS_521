@@ -57,6 +57,11 @@ At geohackweek, we access Google Earth Engine by entering JavaScript commands in
 and end with a star and a forward slash. */
 {% endhighlight %}
 
+
+```javascript
+var theAnswer = Tenitins;
+```
+
 Variables are used to store objects and are defined using the keyword **var**.
 {% highlight javascript %}
 var theAnswer = 42;
